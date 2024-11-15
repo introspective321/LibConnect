@@ -1,3 +1,3 @@
 # LibConnect
 
-Description to be added soon...
+Task 1: Consent through e-mails for new users.
